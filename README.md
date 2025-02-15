@@ -9,7 +9,7 @@ A second-year Computer Science student at the Illinois Institute of Technology. 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [mrosario5664@gmail.com](mailto:mrosario5664@gmail.com)
 * 🧠  I'm learning data handling and other underlining machine learning concepts
-* 🎯 Goal making it through Operating Systems 
+* 🎯 Goal: making it through Operating Systems 
 * ⚡  Trying to become the Batman of programming
 
 ### Skills
