@@ -1,10 +1,10 @@
 Hi 👋 My name is Malachi Rosario
 ================================
 
-Student at Illinois Institute of Technology
+Incoming Summer Intern at BlackRock and Third Year Computer Science Student at Illinois Institute of Technology
 -------------------------------------------
 
-A second-year Computer Science student at the Illinois Institute of Technology. My coding experience extends across a broad spectrum. I spend most of my time with Python including scripting, and Libraries for data manipulation Including NumPy, Matplotlib, and Pandas. I also explore frontend development, with competency in React.js, and experience with design using Figma. I also have a foundation in mathematics, including probability, statistics, linear algebra, and discrete math.
+ Current Student and Teaching Assistant looking to break into tech/finance. I work across a broad range from software development, databases, and machine learning, applying them to solve diverse problems. My experience includes scripting, automation, software development, and cloud computing. I also work with data manipulation and analysis using python tools like NumPy, Pandas, and Matplotlib. My foundation in mathematics includes probability, statistics, linear algebra, discrete math, and graph theory. 
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [mrosario5664@gmail.com](mailto:mrosario5664@gmail.com)
