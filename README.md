@@ -1,15 +1,15 @@
 Hi 👋 My name is Malachi Rosario
 ================================
 
-Previous Swe Intern at BlackRock and Fourth Year Computer Science Student at Illinois Institute of Technology
+Previous Swe Intern at BlackRock and B.S Computer Science Graduate at Illinois Institute of Technology
 -------------------------------------------
 
- Current Student looking to break into tech/finance. I work across a broad range from software development, databases, and machine learning, applying them to solve diverse problems. My experience includes scripting, automation, software development, and cloud computing. I also work with data manipulation and analysis using python tools like NumPy, Pandas, and Matplotlib. My foundation in mathematics includes probability, statistics, linear algebra, discrete math, and graph theory. 
+ Recent graduate looking to break into tech/finance. I work across a broad range from software development, databases, and machine learning, applying them to solve diverse problems. My experience includes scripting, automation, software development, and cloud computing. I also work with data manipulation and analysis using python tools like NumPy, Pandas, and Matplotlib. My foundation in mathematics includes probability, statistics, linear algebra, stochastic calculus, discrete math, and graph theory. 
 
 * 🌍  I'm based in Chicago, IL
 * ✉️  You can contact me at [mrosario5664@gmail.com](mailto:mrosario5664@gmail.com)
 * 🧠  I'm learning c++ right now 
-* 🎯 Goal: making it through my last year of College 
+* 🎯 Goal: Getting better at Salsa🕺🏾
 * ⚡  Trying to become the Batman of programming
 
 ### Skills
